@@ -1,7 +1,15 @@
 created first file from master branch. 
+a new line
 another line added after first commit from commit gui
 
 
 
 
-commetns for second commit. 
+commetns for second commit, fun. 
+
+
+
+
+
+
+test
